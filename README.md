@@ -10,24 +10,20 @@ Explore the dashboard for deeper insights: https://public.tableau.com/app/profil
 
 ## Exploratory Data Analysis (EDA) Approach 🚀
 **Data Preparation & Cleaning**
-
 Imported & cleaned the dataset, ensuring it's structured for analysis.
 Column splitting & filtering applied to refine job titles.
 
 **Initial EDA & Trend Analysis**
-
 Explored job postings & salary distribution trends.
 Investigated demand vs. supply across experience levels.
 Identified key salary gaps by job role, education, and gender.
 
 **Data Visualization & Insights**
-
 Salary vs. Years of Experience trend analysis.
 Job Position Level Analysis: From internship to executive roles.
 Bubble charts & time-series graphs for market trends visualization.
 
 **Building the DataPulse Dashboard**
-
 Interactive Tableau dashboard with dynamic filters & calculated fields.
 KPI-driven insights for quick data-driven decisions.
 Trend forecasting to understand future job market fluctuations.
