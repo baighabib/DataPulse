@@ -52,4 +52,3 @@ This project delivers an in-depth salary and job market analysis tailored for re
  This Tableau-powered dashboard empowers professionals with data-driven insights, helping them navigate career decisions with confidence.
   
 **Thank you** for exploring this project—may these insights empower smarter career choices and drive the future of the job market!
-
