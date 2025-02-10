@@ -36,12 +36,11 @@ Trend forecasting to understand future job market fluctuations.
 - Role-Based Salary Breakdown: Discover which job titles pay the most.
 
 ## Outcomes & Learnings 🎯
-
-💡 Education Matters: Higher education positively correlates with salary growth.
-💡 Experience Pays Off: Significant salary jumps occur around 6+ years of experience.
-💡 Job Demand Surges in 2020-2021: Increased demand for entry-level and mid-senior professionals.
-💡 Data Science Roles Offer High Salaries: But variance exists based on education & experience.
-💡 Gender Disparities Persist: Education partially mitigates, but doesn’t eliminate salary gaps.
+- Education Matters: Higher education positively correlates with salary growth.
+- Experience Pays Off: Significant salary jumps occur around 6+ years of experience.
+- Job Demand Surges in 2020-2021: Increased demand for entry-level and mid-senior professionals.
+- Data Science Roles Offer High Salaries: But variance exists based on education & experience.
+- Gender Disparities Persist: Education partially mitigates, but doesn’t eliminate salary gaps.
 
 ## License
 This project is licensed under the **MIT License**. See the LICENSE.txt file for details.
